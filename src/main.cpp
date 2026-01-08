@@ -1,3 +1,7 @@
+// v1 Monolithic Version
+// This file contains the original working implementation.
+// Refactoring will be done in future versions.
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <vector>
